@@ -1,0 +1,19 @@
+h1, h2, h3, p {
+	font-family: Calibri, "Helvetica Neue", sans-serif;
+	text-align: center;
+}
+h1 {
+	font-size: 32pt;
+}
+h3 {
+	font-size: 28pt;
+}
+table {
+	border-collapse: collapse;
+}
+.blue {
+	color: blue;
+}
+.red {
+	color: red;
+}
